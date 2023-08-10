@@ -1,0 +1,29 @@
+body,head{
+    background-color: gray;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    width: auto;
+    height: auto;
+}
+.button{
+    background-color:#333;
+    border: 2px solid white;
+    border-radius: 10px;
+    color: white;
+    height: 50px;
+    margin: 4px 2px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    flex: auto;
+    width: 23.5%;
+}
+.row{
+    width: 80%;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+
+}
